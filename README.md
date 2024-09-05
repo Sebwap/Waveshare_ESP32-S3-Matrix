@@ -11,3 +11,5 @@ Waveshare ESP32-S3-Matrix commercial page: https://www.waveshare.com/esp32-s3-ma
 Waveshare ESP32-S3-Matrix Wiki: https://www.waveshare.com/wiki/ESP32-S3-Matrix
 
 C library to use with QMI8658 https://github.com/lewisxhe/SensorLib/blob/master/src/SensorQMI8658.hpp
+
+Introduction to IMU technology: https://www.advancednavigation.com/tech-articles/inertial-measurement-unit-imu-an-introduction/#technology
